@@ -2,8 +2,8 @@
 layout: tag-blog
 title: Linux
 slug: linux
-category: devlog
+category: dlog
 menu: false
-order: 2
+order: 4
 header-img: "/img/linux-logo.png"
 ---

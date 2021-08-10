@@ -2,8 +2,8 @@
 layout: tag-blog
 title: Web
 slug: web
-category: devlog
+category: dlog
 menu: false
-order: 1
+order: 5
 header-img: "/img/web-logo.png"
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data
-slug: data
-category: devlog
+title: ML
+slug: ml
+category: dlog
 menu: false
 order: 2
 ---

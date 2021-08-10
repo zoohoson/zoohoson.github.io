@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Documents
-slug: doc
+title: Dlog
+slug: dlog
 menu: true
 submenu: true
-order: 2
+order: 1
 description: >
-  Article
+  Data, Develop
 
 ---
