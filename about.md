@@ -11,7 +11,7 @@ order: 10
 ![TimeTable](./assets/img/TimeTable.jpg)
 ![HardSkill_Proejcts](./assets/img/HardSkill_projectList.jpg)
 ![Project_BigContest](./assets/img/p1_pm.jpg)
-[2019BigConte_report])https://github.com/zoohoson/Bigcontest_Innovation/blob/main/Innovation_UlSanRAZOR_Report.pdf)
+[2019BigConte_report](https://github.com/zoohoson/Bigcontest_Innovation/blob/main/Innovation_UlSanRAZOR_Report.pdf)
 ![Project_LG](./assets/img/p2_lg.jpg)
 [2020LGoptimization_report](https://github.com/zoohoson/LG_AI_optimization_genetic/blob/main/LG_BigDogTeam_PPT.pdf)
 ![Project_NIMS](./assets/img/p3_image.jpg)
