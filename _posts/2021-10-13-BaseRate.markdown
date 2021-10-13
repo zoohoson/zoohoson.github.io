@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ''
-subtitle: '211013Wed '
+title: '빚투 영끌족 날벼락…한은 "11월 금리 추가 인상 고려"'
+subtitle: '211013Wed 10월 금리동결'
 categories: doc
 tags: economy
 comments: true
