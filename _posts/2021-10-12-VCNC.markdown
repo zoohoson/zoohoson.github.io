@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '토스, '비운의 스타트업' 타다 전격 인수…카카오T와 맞짱'
+title: '토스, "비운의 스타트업" 타다 전격 인수…카카오T와 맞짱'
 subtitle: '211012Tue 토스의 타다인수'
 categories: doc
 tags: economy
