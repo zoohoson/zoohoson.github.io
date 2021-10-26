@@ -1,11 +1,12 @@
 ---
 layout: post
-title: '\'간편결제에 꽂힌\' 우리카드, 시장 선점 나섰다'
+title: '"간편결제에 꽂힌" 우리카드, 시장 선점 나섰다'
 subtitle: '211025월 우리카드 간편결제'
 categories: doc
 tags: economy
 comments: true
 ---
+
 # 1. 기사
 \'간편결제에 꽂힌\' 우리카드, 시장 선점 나섰다
 ==========
