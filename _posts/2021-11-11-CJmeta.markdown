@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CJ올리브네트웍스, "서울시 메타버스 시범서비스" 참여'
-subtitle: '211110수 CJ DT지원'
+subtitle: '211111목 CJ 메타버스'
 categories: doc
 tags: economy
 comments: true
