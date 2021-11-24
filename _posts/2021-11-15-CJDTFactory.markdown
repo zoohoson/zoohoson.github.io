@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 CJ올리브네트웍스, 의약품 전문 스마트 물류센터 짓는다
 ==========
 [링크](https://www.joongang.co.kr/article/24061628#home)

@@ -8,7 +8,8 @@ comments: true
 ---
 
 # 1. 기사
-\'간편결제에 꽂힌\' 우리카드, 시장 선점 나섰다
+
+'간편결제에 꽂힌' 우리카드, 시장 선점 나섰다
 ==========
 [링크](http://www.paxetv.com/news/articleView.html?idxno=128372)
 

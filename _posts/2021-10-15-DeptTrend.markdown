@@ -7,6 +7,7 @@ tags: economy
 comments: true
 ---
 # 1. 기사
+
 백화점 생활전시관 '나만의 인테리어' 인기
 ==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004864872)

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: '\‘양날의 칼\’ 알고리즘, 악용 막아 난제 해결 도구로 써야'
+title: '"양날의 칼" 알고리즘, 악용 막아 난제 해결 도구로 써야'
 subtitle: '211023토 알고리즘이중성'
 categories: doc
 tags: economy
 comments: true
 ---
 # 1. 기사
+
 ‘양날의 칼’ 알고리즘, 악용 막아 난제 해결 도구로 써야
 ==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004868002)

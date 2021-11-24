@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 빅데이터 시대, 애널리틱스 강자들-삼정KPMG D&A팀
 ==========
 [링크](http://jmagazine.joins.com/forbes/view/327614)

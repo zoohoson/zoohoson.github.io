@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 비바리퍼블리카 신용평가사 설립 추진, 이승건 모든 토스사업의 토대
 ==========
 [링크](https://www.businesspost.co.kr/BP?command=article_view&num=259862)

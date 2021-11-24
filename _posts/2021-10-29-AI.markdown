@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 "AI 윤리" 선택 아닌 필수로…카카오·네이버도 만들었다
 ==========
 [링크](https://news.mt.co.kr/mtview.php?no=2021102716231924877)

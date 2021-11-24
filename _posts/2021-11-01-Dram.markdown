@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 유진투자 "반도체 D램값 하락세 돌입"
 ==========
 [링크](https://www.yna.co.kr/view/AKR20211101035600002?input=1195m)

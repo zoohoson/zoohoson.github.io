@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 “AI로 신제품 개발” CJ올리브네트웍스, 중소기업 디지털 전환 지원
 ==========
 [링크](http://news.heraldcorp.com/view.php?ud=20210719000111)

@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 [구축사례] SSG닷컴, 데이터 관리도 ‘쓱(SSG)’
 ==========
 [링크](https://www.comworld.co.kr/news/articleView.html?idxno=50178)

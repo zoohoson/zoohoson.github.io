@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 신세계百, 빅데이터로 '신세계' 연다
 ==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004874579)

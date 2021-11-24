@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 초거대 AI 개발에 한창인 LG, 계열사별 AI 연구 상황은?
 ==========
 [링크](http://www.aitimes.com/news/articleView.html?idxno=141384)

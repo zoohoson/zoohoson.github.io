@@ -8,6 +8,7 @@ comments: true
 ---
 
 # 1. 기사
+
 KB손보, 업계 최초 '마이데이터' 진출 코앞…디지털혁신 성공가도
 ==========
 [링크](https://www.wikileaks-kr.org/news/articleView.html?idxno=110070)
