@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '진옥동 신한은행장 "금융은 필요하지만 은행은 사라질 것…치열하게 전환해야 살아남는다"'
-subtitle: '211020수 젊어진CJ제당'
+subtitle: '211021목 젊어진CJ제당'
 categories: doc
 tags: economy
 comments: true

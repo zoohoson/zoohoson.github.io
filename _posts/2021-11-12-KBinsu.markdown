@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KB손보, 업계 최초 "마이데이터" 진출 코앞…디지털혁신 성공가도'
-subtitle: '211113금 KB손보 마이데이터진출'
+subtitle: '211112금 KB손보 마이데이터진출'
 categories: doc
 tags: economy
 comments: true

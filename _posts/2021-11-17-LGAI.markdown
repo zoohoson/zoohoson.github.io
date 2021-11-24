@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '초거대 AI 개발에 한창인 LG, 계열사별 AI 연구 상황은?'
-subtitle: '211116화 CJ DT인터뷰'
+subtitle: '211117수 CJ DT인터뷰'
 categories: doc
 tags: economy
 comments: true
