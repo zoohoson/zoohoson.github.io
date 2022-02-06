@@ -3,14 +3,10 @@ layout: post
 title: 'CJ올리브네트웍스 차인혁 대표 “디지털 트랜스포메이션은 명확한 목표 필요”'
 subtitle: '211207화 CJ올네, AI로 중소기업 사업지원'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-CJ올리브네트웍스 차인혁 대표 “디지털 트랜스포메이션은 명확한 목표 필요”
-==========
 [링크](https://www.boannews.com/media/view.asp?idx=97766&kind=)
 21.05.25. 보안뉴스 이상우 기자   
 

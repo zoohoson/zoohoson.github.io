@@ -3,13 +3,10 @@ layout: post
 title: '[CEO] 공유차량 이용시간·거리 등…데이터 보며 돌파구 찾았죠'
 subtitle: '211018Mon 쏘카의데이터활용법'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-[CEO] 공유차량 이용시간·거리 등…데이터 보며 돌파구 찾았죠
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004865851)
 
 박재욱 쏘카 대표   

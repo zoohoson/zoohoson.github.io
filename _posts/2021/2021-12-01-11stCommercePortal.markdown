@@ -3,14 +3,10 @@ layout: post
 title: '커머스포털 미는 11번가, 네이버와 점점 더 닮아간다'
 subtitle: '211201수 커머스포털 11번가'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-커머스포털 미는 11번가, 네이버와 점점 더 닮아간다
-==========
 [링크](http://www.sisajournal-e.com/news/articleView.html?idxno=201194)
 19.06.04. 시사저널 박지호 기자   
 

@@ -3,14 +3,10 @@ layout: post
 title: '"170만원 TV, 100만원에 사는데…" 영어 몰라도, 관세 신경 안써도 OK'
 subtitle: '211129월 해외직구시대'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-"170만원 TV, 100만원에 사는데…" 영어 몰라도, 관세 신경 안써도 OK
-==========
 [링크](https://news.mt.co.kr/mtview.php?no=2021112616302620503)
 21.11.27 머니투데이 이재은 기자   
 

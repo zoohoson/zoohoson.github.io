@@ -3,14 +3,10 @@ layout: post
 title: '케이뱅크, 빅데이터 전문가 뽑는다… IT 인력 대거 채용'
 subtitle: '211123화 케이뱅크, 빅데이터전문가채용'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-케이뱅크, 빅데이터 전문가 뽑는다… IT 인력 대거 채용
-==========
 [링크](https://moneys.mt.co.kr/news/mwView.php?no=2020091109058016482)
 20.09.11 머니S 박슬기 기자   
 

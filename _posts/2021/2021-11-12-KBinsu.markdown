@@ -3,14 +3,10 @@ layout: post
 title: 'KB손보, 업계 최초 "마이데이터" 진출 코앞…디지털혁신 성공가도'
 subtitle: '211112금 KB손보 마이데이터진출'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-KB손보, 업계 최초 '마이데이터' 진출 코앞…디지털혁신 성공가도
-==========
 [링크](https://www.wikileaks-kr.org/news/articleView.html?idxno=110070)
 
 <span style="color:blue">KB손보, 마이데이터 예비허가 획득...손보업계서 유일</span>   

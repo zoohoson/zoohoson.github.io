@@ -3,13 +3,10 @@ layout: post
 title: '"AI가 영상편집…1인미디어 시장 판 흔든다"'
 subtitle: '211008Fri AI영상편집'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-"AI가 영상편집…1인미디어 시장 판 흔든다"
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004613681)
 
 제3회 AI스타트업 라운드테이블   

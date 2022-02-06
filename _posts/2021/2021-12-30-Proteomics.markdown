@@ -3,14 +3,10 @@ layout: post
 title: '단백질로 질병 진단?…차세대 기술로 주목받는 "프로테오믹스"'
 subtitle: '211230목 Proteomics'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-단백질로 질병 진단?…차세대 기술로 주목받는 ‘프로테오믹스’
-==========
 [링크](http://news.heraldcorp.com/view.php?ud=20210728000930)
 21.07.28. 헤럴드경제 손인규 기자   
 

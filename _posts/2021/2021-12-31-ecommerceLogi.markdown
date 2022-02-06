@@ -3,14 +3,10 @@ layout: post
 title: '빨라야 산다…뉴노멀 된 "총알배송"'
 subtitle: '211230목 Proteomics'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-빨라야 산다…뉴노멀 된 "총알배송"
-==========
 [링크](https://www.joongang.co.kr/article/25037101)
 21.12.31. 중앙일보 이병준 기자   
 

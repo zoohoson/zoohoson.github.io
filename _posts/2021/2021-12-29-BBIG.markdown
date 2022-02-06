@@ -3,14 +3,10 @@ layout: post
 title: '“BBIG·2차전지 테마 ETF 지속 성장할 것”'
 subtitle: '211229수 BBIG'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-“BBIG·2차전지 테마 ETF 지속 성장할 것”
-==========
 [링크](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202112141522494680101884&svccode=00&page=1&sort=thebell_check_time)
 21.12.17. 더벨 윤기쁨 기자   
 

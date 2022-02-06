@@ -3,14 +3,10 @@ layout: post
 title: '입사 시험 합격할 확률은?…AI가 채용데이터로 알려준다'
 subtitle: '211223목 원티드랩 AI채용'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-입사 시험 합격할 확률은?…AI가 채용데이터로 알려준다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004643322)
 21.12.21. 한국경제 김주완 기자   
 

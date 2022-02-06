@@ -3,14 +3,10 @@ layout: post
 title: '카카오브레인 "내년 글로벌 최대 텍스트·이미지 넘나드는 AI 공개"'
 subtitle: '211221화 카카오AI'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-카카오브레인 "내년 글로벌 최대 텍스트·이미지 넘나드는 AI 공개"
-==========
 [링크](https://newsis.com/view/?id=NISX20211220_0001694971&cID=13001&pID=13000)
 21.12.20. 뉴시스 이진영 기자   
 

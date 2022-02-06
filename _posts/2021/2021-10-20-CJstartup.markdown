@@ -3,13 +3,10 @@ layout: post
 title: '20대가 신사업 이끈다…젊어진 CJ제일제당'
 subtitle: '211020수 젊어진CJ제당'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-20대가 신사업 이끈다…젊어진 CJ제일제당
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004867328)
 
 <img src="/assets/img/211020Wed_CJ.png">

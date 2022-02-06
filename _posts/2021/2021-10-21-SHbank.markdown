@@ -3,13 +3,10 @@ layout: post
 title: '진옥동 신한은행장 "금융은 필요하지만 은행은 사라질 것…치열하게 전환해야 살아남는다"'
 subtitle: '211021목 젊어진CJ제당'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-진옥동 신한은행장 "금융은 필요하지만 은행은 사라질 것…치열하게 전환해야 살아남는다"
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004618627)
 
 한국경제 창간 57th 미래를 말한다   

@@ -3,14 +3,10 @@ layout: post
 title: '온라인뱅킹 가속화에… 은행점포·은행원 "off" [심층기획]'
 subtitle: '211102화 온라인뱅킹'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-온라인뱅킹 가속화에… 은행점포·은행원 ‘off’ [심층기획]
-==========
 [링크](http://www.segye.com/newsView/20211101515865?OutUrl=naver)
 
 디지털 금융이 뭐길래… 코로나發 금융환경 지각변동   

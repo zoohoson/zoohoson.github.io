@@ -3,13 +3,10 @@ layout: post
 title: '미니스톱 두고 롯데·신세계 "빅매치"'
 subtitle: '220107Fri Ministop'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-미니스톱 두고 롯데·신세계 "빅매치"
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004649535)
 22.01.05. 한국경제 차준호 노유정 기자   
 

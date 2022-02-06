@@ -3,14 +3,10 @@ layout: post
 title: '저평가된 농업·농촌의 다원적 기능과 공익적 가치'
 subtitle: '211103수 농업공익'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-저평가된 농업·농촌의 다원적 기능과 공익적 가치
-==========
 [링크](http://www.newsam.co.kr/news/article.html?no=31450)
 
 자연 생태계와의 상호작용 고려   

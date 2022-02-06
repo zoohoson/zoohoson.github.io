@@ -3,14 +3,10 @@ layout: post
 title: '“AI로 신제품 개발” CJ올리브네트웍스, 중소기업 디지털 전환 지원'
 subtitle: '211110수 CJ DT지원'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-“AI로 신제품 개발” CJ올리브네트웍스, 중소기업 디지털 전환 지원
-==========
 [링크](http://news.heraldcorp.com/view.php?ud=20210719000111)
 
 [헤럴드경제=정태일 기자] CJ올리브네트웍스가 디지털 뉴딜 정책의 일환으로 추진되는 ‘데이터바우처 지원사업’에 공급기업으로 참가한다고 19일 밝혔다   

@@ -3,13 +3,10 @@ layout: post
 title: '136개국 디지털세 합의…삼성전자 법인세 1.5조 해외 낸다'
 subtitle: '211011Mon 삼성전자 세금'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-136개국 디지털세 합의…삼성전자 법인세 1.5조 해외 낸다
-==========
 [링크](https://www.joongang.co.kr/article/25013763)
 
 <span style="color:red">글로벌 ‘디지털세’ 부과에 세계 136개국이 최종 합의</span>했다. 구글처럼 세계 여러 나라에서 사업하면서 세금 부담을 줄여 온 글로벌 기업이 2023년부터는 매출을 올린 국가에도 세금을 내도록 하는 게 핵심이다.   

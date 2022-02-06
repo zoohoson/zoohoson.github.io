@@ -3,14 +3,10 @@ layout: post
 title: '[MK TECH REVIEW] 도로위 달리며 모은 데이터 협업 클라우드가 처리…미래車 온다'
 subtitle: '211026화 현대클라우드'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-[MK TECH REVIEW] 도로위 달리며 모은 데이터 협업 클라우드가 처리…미래車 온다
-==========
 [링크](https://www.mk.co.kr/news/it/view/2021/10/967900/)
 
 

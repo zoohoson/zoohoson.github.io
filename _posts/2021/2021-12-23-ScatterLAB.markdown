@@ -3,14 +3,10 @@ layout: post
 title: '"AI윤리 논란" 이루다, 돌아온다'
 subtitle: '211223목 스캐터랩 AI챗봇'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-"AI윤리 논란" 이루다, 돌아온다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004643313)
 21.12.21. 한국경제 이시은 기자   
 

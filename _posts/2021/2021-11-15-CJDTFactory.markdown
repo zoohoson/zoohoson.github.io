@@ -3,14 +3,10 @@ layout: post
 title: 'CJ올리브네트웍스, 의약품 전문 스마트 물류센터 짓는다'
 subtitle: '211115월 KB손보 마이데이터진출'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-CJ올리브네트웍스, 의약품 전문 스마트 물류센터 짓는다
-==========
 [링크](https://www.joongang.co.kr/article/24061628#home)
 
 <span style="color:blue">CJ올리브네트웍스가 한국제약협동조합(피코이노베이션)의 무인화 스마트 물류센터를 경기도 평택시에 있는 드림산업단지 안에 1만7000㎡(약 5000평) 규모로 구축</span>한다고 19일 밝혔다.   

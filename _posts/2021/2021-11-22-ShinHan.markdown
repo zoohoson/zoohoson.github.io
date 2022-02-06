@@ -3,14 +3,10 @@ layout: post
 title: '["재테크 빙하기" 돈 굴리기] AI 활용한 글로벌 포트폴리오 투자…신한금융투자, 신한 NEO AI 펀드랩'
 subtitle: '211122월 신한금융투자, NEO AI'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-[‘재테크 빙하기’ 돈 굴리기] AI 활용한 글로벌 포트폴리오 투자…신한금융투자, 신한 NEO AI 펀드랩
-==========
 [링크](https://www.etoday.co.kr/news/view/2056594)
 [특집] AI 활용한 글로벌 포트폴리오 투자…신한금융투자, 신한 NEO AI 펀드랩   
 <span style="color:blue">

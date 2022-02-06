@@ -3,14 +3,10 @@ layout: post
 title: '베르티스, 여성 10명 중 8명 “유방암 검진 필요하다”'
 subtitle: '211214화 베르티스 유방암검진'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-베르티스, 여성 10명 중 8명 “유방암 검진 필요하다”
-==========
 [링크](https://www.yakup.com/news/index.html?mode=view&cat=12&nid=262420)
 21.10.28. 약업신문 권혁진 기자   
 

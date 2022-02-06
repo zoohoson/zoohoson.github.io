@@ -3,14 +3,10 @@ layout: post
 title: '규제 압박에도 "美빅테크" 몸집 커졌다'
 subtitle: '211028목 미빅테크성장'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-규제 압박에도 '美빅테크' 몸집 커졌다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004870585)
 
 구글 올 3분기 매출액 76조원   

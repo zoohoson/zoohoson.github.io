@@ -3,14 +3,10 @@ layout: post
 title: '"간편결제에 꽂힌" 우리카드, 시장 선점 나섰다'
 subtitle: '211025월 우리카드 간편결제'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-'간편결제에 꽂힌' 우리카드, 시장 선점 나섰다
-==========
 [링크](http://www.paxetv.com/news/articleView.html?idxno=128372)
 
 - 뱅킹앱에 간편결제 서비스 탑재하며 주목   

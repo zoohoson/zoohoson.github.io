@@ -3,14 +3,10 @@ layout: post
 title: '후~ 불었더니 "여기 아프시죠?"…다보스포럼이 꼽은 10대 미래기술'
 subtitle: '211210금 다보스포럼이 꼽은 10대기술'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-후~ 불었더니 "여기 아프시죠?"…다보스포럼이 꼽은 10대 미래기술
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004891537)
 21.12.09. 매일경제 윤원섭 기자   
 

@@ -3,14 +3,10 @@ layout: post
 title: 'CJ대한통운, 첨단 물류센터…"AI 로봇이 택배 포장·운송"'
 subtitle: '211222수 CJ대한통운 AI물류센터'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-CJ대한통운, 첨단 물류센터…"AI 로봇이 택배 포장·운송"
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004643260)
 21.12.22. 한국경제 노유정 기자   
 

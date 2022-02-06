@@ -3,14 +3,10 @@ layout: post
 title: '[구축사례] SSG닷컴, 데이터 관리도 "쓱(SSG)"'
 subtitle: '211027수 데이터관리 슥'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-[구축사례] SSG닷컴, 데이터 관리도 ‘쓱(SSG)’
-==========
 [링크](https://www.comworld.co.kr/news/articleView.html?idxno=50178)
 
 2012년부터 데이터 프로세스 지속 개선…‘DA샵’‧‘메타샵’ 등 최적 솔루션 도입해 역량 강화   

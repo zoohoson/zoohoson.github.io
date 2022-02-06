@@ -3,14 +3,10 @@ layout: post
 title: '베르티스, "우수 기업연구소" 선정…10년간 단백질 라이브러리 구축'
 subtitle: '211228화 우수기업연구소 베르티스'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-베르티스, "우수 기업연구소" 선정…10년간 단백질 라이브러리 구축
-==========
 [링크](https://news.mt.co.kr/mtview.php?no=2021122711275919003)
 21.12.27. 머니투데이 류준영 기자   
 

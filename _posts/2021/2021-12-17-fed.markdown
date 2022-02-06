@@ -3,14 +3,10 @@ layout: post
 title: 'Fed, 내년 기준금리 3회 인상…3월 테이퍼링 끝낸다'
 subtitle: '211217금 FED금리인상'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-Fed, 내년 기준금리 3회 인상…3월 테이퍼링 끝낸다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004641554)
 21.12.16. 한국경제 정인설 기자   
 

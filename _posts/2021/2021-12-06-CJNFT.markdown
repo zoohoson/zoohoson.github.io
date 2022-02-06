@@ -3,14 +3,10 @@ layout: post
 title: 'CJ올리브네트웍스 "AI로 예술작품 재현해 NFT로 발행"'
 subtitle: '211206월 CJ올리브네트웍스, NFT'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-CJ올리브네트웍스 "AI로 예술작품 재현해 NFT로 발행"
-==========
 [링크](https://www.fnnews.com/news/202111171125525453)
 21.11.17. 파이낸셜뉴스 이설영 기자   
 

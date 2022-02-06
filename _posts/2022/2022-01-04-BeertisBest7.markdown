@@ -3,13 +3,10 @@ layout: post
 title: '베르티스, 전 세계 최고 석학 7명 자문위원 위촉'
 subtitle: '220104Tue 베르티스 자문위원'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-베르티스, 프로테오믹스 1호 상장사 도전
-==========
 [링크](https://www.mk.co.kr/news/it/view/2020/03/334257/)
 20.03.31. 매일경제 김병호 기자   
 

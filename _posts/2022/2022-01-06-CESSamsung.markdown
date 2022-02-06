@@ -3,13 +3,10 @@ layout: post
 title: '"AI 아바타가 우리집 집사"…삼성전자 "인류의 가전경험" 확 바꾼다'
 subtitle: '220106Thu AI Samsung'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-"AI 아바타가 우리집 집사"…삼성전자 "인류의 가전경험" 확 바꾼다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004648948)
 22.01.04. 한국경제 이수빈 기자   
 

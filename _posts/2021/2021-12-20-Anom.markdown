@@ -3,14 +3,10 @@ layout: post
 title: '"타이핑 속도 다르면 이상거래로 탐지"'
 subtitle: '211220월 이상거래'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-"타이핑 속도 다르면 이상거래로 탐지"
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004642389)
 21.12.20. 한국경제 임현우 기자   
 

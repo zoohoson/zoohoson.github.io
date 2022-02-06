@@ -3,14 +3,10 @@ layout: post
 title: '초거대 AI 개발에 한창인 LG, 계열사별 AI 연구 상황은?'
 subtitle: '211117수 CJ DT인터뷰'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-초거대 AI 개발에 한창인 LG, 계열사별 AI 연구 상황은?
-==========
 [링크](http://www.aitimes.com/news/articleView.html?idxno=141384)
 '2021 한국인공지능학회-LG AI연구원 추계학술대회'서 5일 공개   
 LG유플러스·LG전자·LG이노텍·LG CNS 기술 담당자 발표   

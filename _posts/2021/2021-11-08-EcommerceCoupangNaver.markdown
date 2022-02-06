@@ -3,14 +3,10 @@ layout: post
 title: '정산 오래 걸리는 쿠팡, 상위노출 힘든 네이버'
 subtitle: '211108월 이커머스분쟁'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-정산 오래 걸리는 쿠팡, 상위노출 힘든 네이버
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004875446)
 
 판매자들 불만 호소 여전   

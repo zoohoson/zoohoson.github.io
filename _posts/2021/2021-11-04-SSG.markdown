@@ -3,14 +3,10 @@ layout: post
 title: '신세계百, 빅데이터로 "신세계" 연다'
 subtitle: '211104목 신세계빅데이터'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-신세계百, 빅데이터로 '신세계' 연다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004873894)
 
 고객 취향 분석해 맞춤서비스   

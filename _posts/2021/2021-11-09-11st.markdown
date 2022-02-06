@@ -3,14 +3,10 @@ layout: post
 title: '12개국 직접 진출 아마존, 한국서만 11번가 손잡은 이유'
 subtitle: '211109화 11번가아마존'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-12개국 직접 진출 아마존, 한국서만 11번가 손잡은 이유
-==========
 [링크](https://www.donga.com/news/Economy/article/all/20210912/109209763/1)
 
 “아마존 ·알리바바가 장악 못 한 유일한 시장”   

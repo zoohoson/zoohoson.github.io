@@ -3,14 +3,10 @@ layout: post
 title: '빅데이터 시대, 애널리틱스 강자들-삼정KPMG D&A팀'
 subtitle: '211119금 삼정KPMG DA팀'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-빅데이터 시대, 애널리틱스 강자들-삼정KPMG D&A팀
-==========
 [링크](http://jmagazine.joins.com/forbes/view/327614)
 “한국형 디지털 성공사례 만들겠다”
 

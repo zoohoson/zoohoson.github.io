@@ -3,14 +3,10 @@ layout: post
 title: '11번가 아마존 스토어가 “아쉽다” 평가받는 5가지 이유'
 subtitle: '211126금 11번가 글로벌아마존 아쉬운점'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-11번가 아마존 스토어가 “아쉽다” 평가받는 5가지 이유
-==========
 [링크](https://byline.network/2021/09/6-80/)
 21.09.06 바이라인네트워크 신승윤 기자   
 

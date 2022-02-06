@@ -3,14 +3,10 @@ layout: post
 title: '[기획] 의료현장 속 AI 진화 ③프로테오믹스 기술과 AI의 융합 "베르티스"'
 subtitle: '211227월 베르티스 AI'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-[기획] 의료현장 속 AI 진화 ③프로테오믹스 기술과 AI의 융합 "베르티스"
-==========
 [링크](http://www.mkhealth.co.kr/news/articleView.html?idxno=54369)
 21.08.12. 매경헬스 서정윤 기자   
 

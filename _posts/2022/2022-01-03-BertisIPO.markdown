@@ -3,13 +3,10 @@ layout: post
 title: '베르티스, 프로테오믹스 1호 상장사 도전'
 subtitle: '220103Mon 베르티스 상장도전'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-베르티스, 프로테오믹스 1호 상장사 도전
-==========
 [링크](https://www.thebell.co.kr/free/content/ArticleView.asp?key=202101141127025240104054&lcode=00)
 21.01.15 더벨 심아란 기자   
 

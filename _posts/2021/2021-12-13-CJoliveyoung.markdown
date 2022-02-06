@@ -3,14 +3,10 @@ layout: post
 title: 'H&B 넘어···올리브영, e커머스와 한판승부'
 subtitle: '211213월 올리브영 O2O'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-H&B 넘어···올리브영, e커머스와 한판승부
-==========
 [링크](https://www.sedaily.com/NewsView/22V9JE9TF1)
 21.12.12. 서울경제 신미진 기자   
 

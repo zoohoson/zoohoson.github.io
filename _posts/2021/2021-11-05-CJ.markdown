@@ -3,14 +3,10 @@ layout: post
 title: '삼성, CJ 손잡고…LG-돌비 연합과 화질경쟁'
 subtitle: '211105금 CJ 화질경쟁'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-신세계百, 빅데이터로 '신세계' 연다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=009&aid=0004874579)
 
 콘텐츠 전환 SW 독자 개발   

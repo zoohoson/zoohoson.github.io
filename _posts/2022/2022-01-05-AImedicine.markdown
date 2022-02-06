@@ -3,13 +3,10 @@ layout: post
 title: '10년 이상 걸리는 신약 개발, AI로 기간·비용 크게 줄인다'
 subtitle: '220104Wed AI pill'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-10년 이상 걸리는 신약 개발, AI로 기간·비용 크게 줄인다
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004649022)
 22.01.05. 한국경제 선한결 기자   
 

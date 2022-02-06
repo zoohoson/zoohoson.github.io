@@ -3,13 +3,10 @@ layout: post
 title: '빚투 영끌족 날벼락…한은 "11월 금리 추가 인상 고려"'
 subtitle: '211013Wed 10월 금리동결'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
-# 1. 기사
 
-빚투 영끌족 날벼락…한은 "11월 금리 추가 인상 고려"
-==========
 [링크](https://www.mk.co.kr/news/economy/view/2021/10/967090/)
 
 ◆ 흔들리는 금융시장 ◆   

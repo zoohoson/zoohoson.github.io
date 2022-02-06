@@ -3,14 +3,10 @@ layout: post
 title: '칸타, 2020년 리테일러 트랜드 분석 실시··· 실제 구매기록을 토대로 진행'
 subtitle: '211125목 리테일 트렌드분석'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-카뱅에 밀리고 토스뱅크에 치이고…케이뱅크 "대출 공세"
-==========
 [링크](https://www.sedaily.com/NewsView/1Z9B211VR5)
 20.10.28 서울경제 김동호 기자   
 

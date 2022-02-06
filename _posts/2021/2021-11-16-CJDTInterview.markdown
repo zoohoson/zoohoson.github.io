@@ -3,14 +3,10 @@ layout: post
 title: '죽은 가수를 되살린 페이스에디팅 기술…AI로 드라마 제작 환경 바꾼다'
 subtitle: '211116화 CJ DT인터뷰'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-죽은 가수를 되살린 페이스에디팅 기술…AI로 드라마 제작 환경 바꾼다
-==========
 [링크](https://magazine.hankyung.com/business/article/202103049965b)
 CJ올리브네트웍스의 DT융합연구소 3인 인터뷰... “생활문화 전반에 걸쳐 AI 혁신 가능”   
 

@@ -3,14 +3,10 @@ layout: post
 title: 'CJ올리브네트웍스, AI 데이터 분석 기술로 중소기업 신규사업 지원'
 subtitle: '211207화 CJ올네, AI로 중소기업 사업지원'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-CJ올리브네트웍스, AI 데이터 분석 기술로 중소기업 신규사업 지원
-==========
 [링크](https://www.boannews.com/media/view.asp?idx=99173&kind=)
 21.07.19. 보안뉴스 이상우 기자   
 

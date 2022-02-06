@@ -3,14 +3,10 @@ layout: post
 title: '"프로테오믹스" 주목한 바이오텍, R&D 파트너링 활발'
 subtitle: '211224금 한국의 프로테오믹스 회사들'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-"프로테오믹스" 주목한 바이오텍, R&D 파트너링 활발
-==========
 [링크](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202112230916101520103145&svccode=00&page=1&sort=thebell_check_time)
 21.12.24. 더벨 심아란 기자   
 

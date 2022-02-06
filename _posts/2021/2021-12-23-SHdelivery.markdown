@@ -3,14 +3,10 @@ layout: post
 title: '"광고료 0" 배달 앱 시장 뛰어든 신한은행…진짜 노림수는?'
 subtitle: '211223목 신한은행 배달앱 진출'
 categories: doc
-tags: economy
+tags: article
 comments: true
 ---
 
-# 1. 기사
-
-"광고료 0" 배달 앱 시장 뛰어든 신한은행…진짜 노림수는?
-==========
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004643715)
 21.12.22. 한국경제 김대훈 빈난새 기자   
 
