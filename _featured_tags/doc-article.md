@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: RealEstate
-slug: realestate
+title: Article
+slug: article
 category: doc
 menu: false
-order: 2
+order: 1
 ---

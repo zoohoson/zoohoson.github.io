@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"알파고는 바보 수준"…LG의 '초거대 AI' 개발'
+title: '"알파고는 바보 수준"…LG의 "초거대 AI" 개발'
 subtitle: '211215수 LG AI'
 categories: doc
 tags: economy
@@ -11,6 +11,8 @@ comments: true
 
 "알파고는 바보 수준"…LG의 '초거대 AI' 개발
 ==========
+
+
 [링크](https://news.naver.com/main/read.naver?mode=LPOD&mid=sec&oid=015&aid=0004640557)
 21.12.14. 한국경제 이시은 기자   
 
