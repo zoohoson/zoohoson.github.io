@@ -38,8 +38,8 @@ http://www.tipue.com/search
 #tipue_search_input
 {
      color: #333;
-     max-width: 210px;
-	padding: 17px;
+     max-width: 150px;
+	padding: 20px;
 	border: 1px solid #e3e3e3;
 	border-radius: 0;
 	-moz-appearance: none;
@@ -53,11 +53,11 @@ http://www.tipue.com/search
      width: 24px;
      height: 24px;
 }
-.tipue_search_left
+/* .tipue_search_left
 {
      float: left;
      padding: 15px 9px 0 0;
-}
+} */
 .tipue_search_right
 {
      float: left;
