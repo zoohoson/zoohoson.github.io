@@ -35,7 +35,7 @@ http://www.tipue.com/search
 /* search box */
 
 
-#tipue_search_input
+/* #tipue_search_input
 {
      color: #333;
      max-width: 200px;
@@ -48,7 +48,7 @@ http://www.tipue.com/search
      box-shadow: none; 
 	outline: 0;
 	margin: 0;
-}
+} */
 /* .tipue_search_icon
 {
      width: 24px;
@@ -61,8 +61,21 @@ http://www.tipue.com/search
 } */
 .tipue_search_right
 {
-     float: left;
+  color: #333;
+  max-width: 200px;
+  max-height: 30px;
+padding: 5px;
+border: 1px solid #e3e3e3;
+border-radius: 0;
+-moz-appearance: none;
+-webkit-appearance: none;
+  box-shadow: none; 
+outline: 0;
+margin: 0;
 }
+/* {
+     float: left;
+} */
 
 
 /* search results */
