@@ -102,6 +102,14 @@ gems:
   - jekyll-paginate
   - jekyll-redirect-from
 
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-gist
+
+
 exclude:
   - README.md
   - LICENSE.md
