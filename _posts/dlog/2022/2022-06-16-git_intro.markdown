@@ -7,11 +7,11 @@ tags: git
 comments: true
 ---
 
-# Git : add commit remote push status log
+# Git : status log add commit remote push 
 
 Git을 알아보자
 
-![2022-06-16-git_intro_asset](./2022-06-16-git_intro_asset.png)
+![2022-06-16-git_intro_asset](/assets/dlog/2022/2022-06-16-git_intro_asset.png)
 
 * 일반폴더 : version tracking 없는 일반적인 폴더
 * 로컬 저장소 : version tracking 폴더 
