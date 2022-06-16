@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Git : add commit push pull clone status remote log'
+title: 'Git : add commit remote push status log'
 subtitle: 'Git intro'
 categories: dlog
 tags: git
