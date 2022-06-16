@@ -7,7 +7,7 @@ tags: git
 comments: true
 ---
 
-# Git : add commit push pull clone status remote log
+# Git : add commit remote push status log
 
 Git을 알아보자
 
