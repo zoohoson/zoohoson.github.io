@@ -1,0 +1,125 @@
+---
+layout: post
+title: 'Git : add commit push pull clone status remote log'
+subtitle: 'Git intro'
+categories: dlog
+tags: git
+comments: true
+---
+
+# Git : add commit push pull clone status remote log
+
+Git을 알아보자
+
+![2022-06-16-git_intro_asset](2022-06-16-git_intro_asset.png)
+
+* 일반폴더 : version tracking 없는 일반적인 폴더
+* 로컬 저장소 : version tracking 폴더 
+    * 아직까지는 원격저장소와 연결없이 버전(누가 무엇을 언제 수정했는지)만 관리하는 상태
+    * 이 때, 버전을 Git이라는 친구가 관리함
+        * git init : git아, 이 폴더를 버전관리해줘
+    * Working Directory, Staging Area, Commit은 별개의 폴더가 생기는 것이 아니라, 버전 관리 상태에 따라 구분
+        * git status : git아, 지금 폴더의 파일들이 working directory, staging area, commit 중에 어떤 상태니?
+    * Working Directory : 버전을 기록하기 전의 상태
+        * git add : git아, ~ ~ 파일들을 버전 관리할 준비 해줘
+    * Staging Area : 버전 기록 전에 임시로 올려두는 상태
+        * git commit : git아, ~ ~ 파일들을 버전 기록해줘
+    * Commits : 버전 기록한 상태
+        * git log : git아, 버전 기록을 보여줘
+    * git remote : git아, 원격저장소 ~ ~ 와 연결해줘
+    * git push : git아, 로컬저장소의 Commits 상태를 원격저장소에 저장해줘
+* 원격 저장소 : 온라인상의 저장 폴더
+    * 이 저장소를 Github, Gitlab 등의 친구가 관리함
+        * Github가 무료 클라우드처럼 원격 저장소를 제공하기에 많이 사용함
+        * 기업의 경우, 보안때문에 자체 서버를 사용해서 Gitlab을 많이 사용함
+    * Commits : 버전 기록한 상태
+
+
+
+## 1. Git 초기 설정
+
+* Git 관리를 시작하고싶은 일반 폴더에서 **최초 1번**만 진행
+
+* 누가 이 버전을 기록했는지에 대한 정보를 등록하고 시작
+
+* 해당 폴더에 .git이라는 숨김폴더 생김
+
+    * .git폴더 지우면 버전관리가 사라집니다.
+
+    ```bash
+    git init  # 버전관리 폴더인 .git 생성
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    git config --global --list  # email, name 확인
+    ```
+
+
+
+## 2. git status
+
+* Working Directory / Staging Area 상태 확인하는 명령어
+
+* 빨간색 : WD, 초록색 : SA
+
+    ```bash
+    git status
+    ```
+
+    
+
+## 3. git add
+
+* Working Directory -> Staging Area 로 이동시키는 명령어
+
+```bash
+git add test1.txt  # 특정 파일
+git add .  # 디렉토리 내의 모든 파일
+```
+
+
+
+## 4. git commit
+
+* 버전 기록 (commit를 해야 나중에 누가 무엇을 수정했는지 확인 가능)
+* -m : 메시지 (입력하지 않으면 vim상에서 comment 입력해야함)
+
+```bash
+git commit -m "comment"  # commit message를 따옴표안에 기록
+```
+
+
+
+## 5. git log
+
+* commit 상태 : 누가, 언제 바꾸었는지 확인 가능
+
+```bash
+git log
+```
+
+
+
+## 6. git remote
+
+* 로컬 저장소와 원격저장소를 연결하는 것
+
+```bash
+git remote add origin https://github.com/example/example.git
+# git아, 원격저장소 목록(remote)에 별명(origin)으로 https://....git을 추가(add)해줘
+git remote -v  # 원격 저장소 목록 확인
+git remote rm origin
+git remote remove origin
+# git아, 원격저장소 목록(remote)에서 별명(origin)을 삭제(rm, remove)해줘
+```
+
+
+
+## 7. git push
+
+* 로컬저장소의 commit상태를 원격저장소에 저장
+
+```bash
+git push origin master
+# git아 원격저장소 별명(origin)의 브랜치(master)에 저장(push)해줘
+```
+
