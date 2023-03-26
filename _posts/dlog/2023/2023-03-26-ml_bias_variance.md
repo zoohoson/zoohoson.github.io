@@ -7,7 +7,7 @@ tags: ml
 comments: true
 ---
 
-![2023-03-26-ml_bias_variance_asset](/assets/dlog/2022/2022-06-16-git_intro_asset.png)
+![2023-03-26-ml_bias_variance_asset](/assets/dlog/2023/2023-03-26-bias_variance.png)
 편항과 분산은 모델의 성능지표를 판단할 때 사용합니다. 아래의 설명은 훈련데이터를 기준으로 작성된 수식입니다.
 
 # 편향 (Bias)
