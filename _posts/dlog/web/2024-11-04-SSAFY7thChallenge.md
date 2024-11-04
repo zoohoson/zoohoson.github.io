@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SSAFY 지원 비전공자 꿀팁'
-subtitle: 'SSAFY 7th challenge'
+subtitle: 'SSAFY 7th tip'
 categories: dlog
 tags: web
 comments: true
