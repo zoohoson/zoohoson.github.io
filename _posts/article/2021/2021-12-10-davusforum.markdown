@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '후~ 불었더니 "여기 아프시죠?"…다보스포럼이 꼽은 10대 미래기술'
 subtitle: '211210금 다보스포럼이 꼽은 10대기술'

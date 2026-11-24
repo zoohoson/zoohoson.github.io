@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: 'LG의 AI 인간, 뉴욕 패션위크 화려한 데뷔'
 subtitle: '220216Wed LGAI'

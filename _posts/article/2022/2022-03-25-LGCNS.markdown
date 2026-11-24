@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: 'LG CNS 인공지능 기술력 구글도 인정...국내 최초, 구글 클라우드의 "AI·머신러닝 전문기업" 인증'
 subtitle: '220325Fri LGCNS'

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '온라인뱅킹 가속화에… 은행점포·은행원 "off" [심층기획]'
 subtitle: '211102화 온라인뱅킹'

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '슈퍼앱 본격 시동건 모빌리티, 첫 타깃은 주차장'
 subtitle: '220313Sun SocarSuperapp'

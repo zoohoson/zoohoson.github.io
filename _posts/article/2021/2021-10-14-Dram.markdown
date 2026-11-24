@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"6만전자"도 깨지나…내년 D램값, 최대 20%까지 떨어진다'
 subtitle: '211014Tur D램가격하락전망'

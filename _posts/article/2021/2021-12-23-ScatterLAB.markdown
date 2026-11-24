@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"AI윤리 논란" 이루다, 돌아온다'
 subtitle: '211223목 스캐터랩 AI챗봇'

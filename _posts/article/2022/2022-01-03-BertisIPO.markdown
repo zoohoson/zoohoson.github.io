@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '베르티스, 프로테오믹스 1호 상장사 도전'
 subtitle: '220103Mon 베르티스 상장도전'

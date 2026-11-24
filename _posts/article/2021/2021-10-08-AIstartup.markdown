@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"AI가 영상편집…1인미디어 시장 판 흔든다"'
 subtitle: '211008Fri AI영상편집'

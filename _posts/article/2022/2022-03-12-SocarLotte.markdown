@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '쏘카, "든든한 우군" 롯데렌탈 주주 확보로 얻는 것'
 subtitle: '220312Sat SocarLotte'

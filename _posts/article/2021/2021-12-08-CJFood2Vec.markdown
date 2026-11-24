@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[CES 2021] "AI가 레시피·식품 추천"…CJ네트웍스·LG전자, 개인화 가전 기술협력'
 subtitle: '211208수 CJ올네, Food2vec로 Recipick'

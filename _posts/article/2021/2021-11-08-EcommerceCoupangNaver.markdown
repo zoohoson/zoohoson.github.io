@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '정산 오래 걸리는 쿠팡, 상위노출 힘든 네이버'
 subtitle: '211108월 이커머스분쟁'

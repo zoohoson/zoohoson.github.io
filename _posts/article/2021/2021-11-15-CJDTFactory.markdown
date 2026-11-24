@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: 'CJ올리브네트웍스, 의약품 전문 스마트 물류센터 짓는다'
 subtitle: '211115월 KB손보 마이데이터진출'

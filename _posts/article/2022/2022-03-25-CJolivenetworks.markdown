@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[오늘Who] CJ그룹 인공지능센터 설립, 이재현 디지털 비전 구체화'
 subtitle: '220325Fri CJAI'

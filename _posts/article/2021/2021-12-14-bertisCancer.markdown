@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '베르티스, 여성 10명 중 8명 “유방암 검진 필요하다”'
 subtitle: '211214화 베르티스 유방암검진'

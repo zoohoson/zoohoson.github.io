@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '쏘카, "자동차 스트리밍 시대 열겠다"'
 subtitle: '220313Sun SocarStream'

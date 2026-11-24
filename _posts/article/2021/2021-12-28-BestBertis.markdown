@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '베르티스, "우수 기업연구소" 선정…10년간 단백질 라이브러리 구축'
 subtitle: '211228화 우수기업연구소 베르티스'

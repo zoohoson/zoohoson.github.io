@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '쿠팡의 인공지능은 쿠팡맨에서 쿠팡친구로 진화시켰다'
 subtitle: '220211Fri CoupangAI'

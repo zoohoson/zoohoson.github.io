@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '전국 100만평 센터 쿠팡 VS 풀필먼트 연합군 네이버 물류전쟁'
 subtitle: '220308Tue Ecomm'

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[AI 주간브리핑] 초거대 AI는 어떤 변화를 가져올까?'
 subtitle: '220321Mon LGAI'

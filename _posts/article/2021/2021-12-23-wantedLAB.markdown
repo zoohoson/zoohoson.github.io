@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '입사 시험 합격할 확률은?…AI가 채용데이터로 알려준다'
 subtitle: '211223목 원티드랩 AI채용'

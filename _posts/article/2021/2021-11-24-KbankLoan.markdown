@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '카뱅에 밀리고 토스뱅크에 치이고…케이뱅크 "대출 공세"'
 subtitle: '211124수 케이뱅크, 대출시장진출'

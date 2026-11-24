@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '죽은 가수를 되살린 페이스에디팅 기술…AI로 드라마 제작 환경 바꾼다'
 subtitle: '211116화 CJ DT인터뷰'

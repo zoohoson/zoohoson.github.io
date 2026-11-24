@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[구축사례] SSG닷컴, 데이터 관리도 "쓱(SSG)"'
 subtitle: '211027수 데이터관리 슥'

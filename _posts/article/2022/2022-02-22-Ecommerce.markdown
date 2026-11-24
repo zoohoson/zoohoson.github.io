@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '신세계 부회장 멸공 발언 후폭풍?...이마트 52주 신저가 밀렸다'
 subtitle: '220222Tue SSG'

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '11번가 아마존 스토어가 “아쉽다” 평가받는 5가지 이유'
 subtitle: '211126금 11번가 글로벌아마존 아쉬운점'

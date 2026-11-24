@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '커머스포털 미는 11번가, 네이버와 점점 더 닮아간다'
 subtitle: '211201수 커머스포털 11번가'

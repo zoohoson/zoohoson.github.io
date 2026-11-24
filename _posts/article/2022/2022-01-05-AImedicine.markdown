@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '10년 이상 걸리는 신약 개발, AI로 기간·비용 크게 줄인다'
 subtitle: '220104Wed AI pill'

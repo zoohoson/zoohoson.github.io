@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '136개국 디지털세 합의…삼성전자 법인세 1.5조 해외 낸다'
 subtitle: '211011Mon 삼성전자 세금'

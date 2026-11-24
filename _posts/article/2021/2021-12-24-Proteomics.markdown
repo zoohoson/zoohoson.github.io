@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"프로테오믹스" 주목한 바이오텍, R&D 파트너링 활발'
 subtitle: '211224금 한국의 프로테오믹스 회사들'

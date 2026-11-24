@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '미니스톱 두고 롯데·신세계 "빅매치"'
 subtitle: '220107Fri Ministop'

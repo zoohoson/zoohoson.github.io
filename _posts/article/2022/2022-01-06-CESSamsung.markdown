@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"AI 아바타가 우리집 집사"…삼성전자 "인류의 가전경험" 확 바꾼다'
 subtitle: '220106Thu AI Samsung'

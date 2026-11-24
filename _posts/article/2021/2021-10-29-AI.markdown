@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"AI 윤리" 선택 아닌 필수로…카카오·네이버도 만들었다'
 subtitle: '211029금 AI윤리'

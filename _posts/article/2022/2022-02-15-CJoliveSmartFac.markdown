@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: 'CJ올리브네트웍스, 오비맥주 공장 스마트팩토리로 바꾼다'
 subtitle: '220215Tue CJSmartFac'

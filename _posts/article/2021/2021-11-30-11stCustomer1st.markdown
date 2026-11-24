@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '11번가, 발빠른 배송·예능형 라방으로…14년째 e커머스 정상'
 subtitle: '211130화 11번가 한국서비스품질지수 1등'

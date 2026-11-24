@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '대형마트 지으니, 시장 손님 늘었다…그래도 20배 규제 법안'
 subtitle: '220222Tue CommerceEffect'

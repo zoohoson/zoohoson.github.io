@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '애플 테슬라 구글 MS, 반도체 자급 선언 파운드리 신났다'
 subtitle: '반도체 이슈 211006'

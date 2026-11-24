@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '"양날의 칼" 알고리즘, 악용 막아 난제 해결 도구로 써야'
 subtitle: '211023토 알고리즘이중성'

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[AI기업] 몰로코 "데이터를 돈으로 만들어줘···올해 매출 5천억"'
 subtitle: '220314Mon MOLOCOPrice'

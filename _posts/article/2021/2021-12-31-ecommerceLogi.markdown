@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '빨라야 산다…뉴노멀 된 "총알배송"'
 subtitle: '211230목 Proteomics'

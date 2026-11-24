@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '단백질로 질병 진단?…차세대 기술로 주목받는 "프로테오믹스"'
 subtitle: '211230목 Proteomics'

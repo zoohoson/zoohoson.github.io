@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '[AI가 미래다]쇼핑 기본은 "검색"..."11번가선 검색 안되는게 없다"'
 subtitle: '211201수 AI 검색모델링 11번가'

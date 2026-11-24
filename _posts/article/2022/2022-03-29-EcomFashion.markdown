@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '패션 강화하는 e커머스, 온라인 패션시장 승자는?'
 subtitle: '220329Tue EcomFashion'

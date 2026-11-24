@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '베르티스, 전 세계 최고 석학 7명 자문위원 위촉'
 subtitle: '220104Tue 베르티스 자문위원'
