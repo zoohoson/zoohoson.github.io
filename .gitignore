@@ -1,7 +1,6 @@
 # Ignore docs files
 _gh_pages
 _site
-_drafts
 .ruby-version
 
 # Numerous always-ignore extensions
@@ -16,8 +15,9 @@ _drafts
 *.vi
 *~
 
-# OS or Editor folders
-.DS_Store
+# OS or Editor folders (sync-conflict copies like ".DS_Store 2" included)
+.DS_Store*
+.obsidian/
 ._*
 Thumbs.db
 .cache
@@ -43,3 +43,9 @@ node_modules
 .sass-cache
 .jekyll-metadata
 *.gem
+
+# Bundler / Jekyll 4
+.bundle
+vendor
+Gemfile.lock
+.jekyll-cache
