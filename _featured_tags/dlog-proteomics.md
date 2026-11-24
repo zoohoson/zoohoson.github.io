@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Proteomics
 slug: proteomics
 category: dlog

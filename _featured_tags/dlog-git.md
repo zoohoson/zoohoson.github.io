@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Git
 slug: git
 category: dlog

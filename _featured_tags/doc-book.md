@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Book
 slug: book
 category: doc

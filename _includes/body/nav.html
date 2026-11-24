@@ -1,0 +1,31 @@
+{%- comment -%}
+  HOLOG 커스텀 내비게이션(Hydejack 6 _includes/nav.html에서 이전):
+  - menu: true인 페이지·카테고리를 order 순으로 표시
+  - submenu: true인 카테고리 아래에 그 카테고리의 featured_tags(category: <slug>)를 접이식(▾) 하위 메뉴로 표시
+  - 태그는 글 수와 관계없이 모두 표시(Dlog: Algorithm·ML·Git·Linux·Web·Proteomics / Documents: Article·Book)
+{%- endcomment -%}
+<span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
+{% assign pages = site.html_pages | where: "menu", true %}
+{% assign documents = site.documents | where: "menu", true %}
+{% assign nodes = pages | concat: documents | sort: "order" %}
+{% assign subnodes = site.featured_tags | sort: "order" %}
+<ul>
+  {% for node in nodes %}
+    <li>
+      {% if node.submenu %}<input type="checkbox" class="nav-toggle" id="_nav-toggle-{{ forloop.index }}" />{% endif %}
+      <div class="list-wrapper">
+        <a {% if forloop.first %}id="_drawer--opened"{% endif %} href="{{ node.url | relative_url }}" class="sidebar-nav-item">{{ node.title }}</a>
+        {% if node.submenu %}<label class="folder" for="_nav-toggle-{{ forloop.index }}" aria-label="{{ node.title }} 하위 메뉴">▾</label>{% endif %}
+      </div>
+      {% if node.submenu %}
+        <ul class="list-body">
+          {% for sub in subnodes %}
+            {% if sub.category == node.slug %}
+              <li><a href="{{ sub.url | relative_url }}" class="sidebar-nav-subitem">{{ sub.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

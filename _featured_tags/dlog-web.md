@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Web
 slug: web
 category: dlog

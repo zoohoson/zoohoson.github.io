@@ -1,0 +1,32 @@
+{%- comment -%}
+  HOLOG 커스텀 사이드바(Hydejack 6 _includes/sidebar.html 배치 유지):
+  제목 → 내비게이션(하위 메뉴) → 검색창 → 프로필 사진 → 소개 → 소셜 아이콘
+{%- endcomment -%}
+<div class="sidebar-sticky">
+  <div class="sidebar-about">
+    <a class="sidebar-title" href="{{ '/' | relative_url }}"><h2 class="h1">{{ site.short_title | default:site.title }}</h2></a>
+    {% if site.tagline and site.tagline != "" %}
+      <p>{{ site.tagline | markdownify | replace:'<p>','' | replace:'</p>','' }}</p>
+    {% endif %}
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    {% include body/nav.html %}
+  </nav>
+
+  <form class="sidebar-search" action="{{ '/search/' | relative_url }}" method="get" role="search">
+    <input type="search" name="q" placeholder="검색어를 입력하세요." aria-label="검색어" required>
+  </form>
+
+  {% assign author = site.data.authors.first[1] | default:site.author %}
+  <div class="sidebar-profile">
+    {% if author.picture %}
+      <img src="{% include_cached smart-url url=author.picture.path %}" class="avatar" alt="{{ author.name }}" width="120" height="120" loading="lazy" />
+    {% endif %}
+    {% if site.description %}<p>{{ site.description | strip }}</p>{% endif %}
+  </div>
+
+  <div class="sidebar-social">
+    {% include components/social.html author=author %}
+  </div>
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: list
 title: Linux
 slug: linux
 category: dlog

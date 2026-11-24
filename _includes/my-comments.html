@@ -1,0 +1,23 @@
+{%- comment -%}
+  HOLOG: 테마 원본(identifier 없음, url만 사용)에 Hydejack 6 시절 identifier(page.id)를 더해 기존 Disqus 스레드를 유지한다.
+{%- endcomment -%}
+{% assign disqus = site.disqus | default:site.disqus_shortname %}
+{% if disqus %}
+<div id="disqus_thread"></div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>!function(w, d) {
+  if (d.getElementById("disqus_thread")) {
+    var cfg = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.id }}';
+      this.page.title = d.title;
+    };
+    if (w.DISQUS) {
+      w.DISQUS.reset({ reload: true, config: cfg });
+    } else {
+      w.disqus_config = cfg;
+      w.loadJSDeferred(d.getElementById("_hrefDisqus").href + '/embed.js');
+    }
+  }
+}(window, document);</script>
+{% endif %}
